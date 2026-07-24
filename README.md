@@ -4,8 +4,11 @@
 
 <br/>
 
-<!-- Terminal glitch-style typing effect: pengganti sementara untuk foto profil -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FCA311&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+whoami;akmal_rafly_dzunurain;" alt="Typing SVG" />
+<img src="/profile-glitch.png" width="260" alt="Akmal Rafly Dzunurain - glitch avatar" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FCA311&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%3E+whoami;akmal_rafly_dzunurain;" alt="Typing SVG" />
 
 </div>
 
@@ -110,6 +113,7 @@ Ular ini "memakan" kotak-kotak kontribusi GitHub saya setiap hari — animasi ot
 <img src="https://raw.githubusercontent.com/RFLYOKE/RFLYOKE/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -119,7 +123,7 @@ Ular ini "memakan" kotak-kotak kontribusi GitHub saya setiap hari — animasi ot
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RFLYOKE&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFLYOKE&theme=tokyonight&hide_border=true&layout=compact" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RFLYOKE&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=RFLYOKE&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=RFLYOKE&theme=tokyonight&no-frame=true&row=1&column=6" />
 
