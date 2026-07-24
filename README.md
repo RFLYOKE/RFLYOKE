@@ -110,9 +110,6 @@ Ular ini "memakan" kotak-kotak kontribusi GitHub saya setiap hari — animasi ot
 <img src="https://raw.githubusercontent.com/RFLYOKE/RFLYOKE/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
 
 </div>
-
-> ⚙️ **Catatan setup:** gambar di atas baru muncul setelah workflow Actions `snake.yml` dijalankan sekali di repo `RFLYOKE/RFLYOKE`. File workflow-nya saya siapkan terpisah — tinggal commit ke `.github/workflows/snake.yml`, lalu aktifkan **Actions → Generate Snake** dan **run workflow**.
-
 ---
 
 ## 📊 GitHub Stats
