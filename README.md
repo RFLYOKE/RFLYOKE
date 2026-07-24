@@ -5,7 +5,7 @@
 <br/>
 
 <!-- Terminal glitch-style typing effect: pengganti sementara untuk foto profil -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FCA311&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+whoami;akmal_rafly_dzunurain;%3E+status;Building+RaihBisa...+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FCA311&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+whoami;akmal_rafly_dzunurain;" alt="Typing SVG" />
 
 </div>
 
@@ -35,7 +35,7 @@
 
 ```yaml
 name: Akmal Rafly Dzunurain
-role: Full-Stack Developer · Co-founder & Lead Technical @ Muda Berkarya Software House
+role: Full-Stack Developer · AI Enthusiast
 study: S1 Sistem Informasi, Telkom University Purwokerto
 focus: Web & mobile scalable apps, clean UI, efficient backend systems
 currently_building: RaihBisa — tutor marketplace (Flutter · Next.js · Express.js)
