@@ -6,10 +6,7 @@
 
 </div>
 
-```
-
 <div align="center"> <img src="/name-banner.png" width="600" alt="Akmal Rafly Dzunurain" /> </div>
-```
 
 <div align="center">
 
