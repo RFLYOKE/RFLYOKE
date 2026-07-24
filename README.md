@@ -99,9 +99,6 @@ learning: JavaScript & PHP ecosystem, AI integration
 ---
 
 ## 🐍 Contribution Snake
-
-Ular ini "memakan" kotak-kotak kontribusi GitHub saya setiap hari — animasi otomatis lewat GitHub Actions.
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/RFLYOKE/RFLYOKE/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
