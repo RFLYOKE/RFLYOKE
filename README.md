@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:FCA311&height=220&section=header&text=Akmal%20Rafly%20Dzunurain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Lead%20Technical%20%40%20Muda%20Berkarya&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:FCA311&height=220&section=header&text=Akmal%20Rafly%20Dzunurain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -135,7 +135,5 @@ Ular ini "memakan" kotak-kotak kontribusi GitHub saya setiap hari — animasi ot
 [![](https://visitcount.itsvg.in/api?id=RFLYOKE&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCA311,100:14213D&height=120&section=footer" width="100%"/>
-
-<sub>Proudly crafted with ✨ Claude · glitch header via readme-typing-svg · snake via platane/snk</sub>
 
 </div>
