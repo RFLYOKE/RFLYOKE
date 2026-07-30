@@ -94,7 +94,7 @@ learning: JavaScript & PHP ecosystem, AI integration
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RFLYOKE/RFLYOKE/main/assets/tech-stack-marquee.svg" alt="Tech stack scrolling animation" width="100%" />
+<img src="https://raw.githubusercontent.com/RFLYOKE/RFLYOKE/main/main/assets/tech-stack-marquee.svg" alt="Tech stack scrolling animation" width="100%" />
 
 </div>
 
