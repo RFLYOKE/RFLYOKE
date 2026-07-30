@@ -1,0 +1,93 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="clip0"><rect x="0" y="10" width="720" height="90" /></clipPath>
+<clipPath id="clip1"><rect x="0" y="100" width="720" height="90" /></clipPath>
+<clipPath id="clip2"><rect x="0" y="190" width="720" height="90" /></clipPath>
+<clipPath id="clip3"><rect x="0" y="280" width="720" height="90" /></clipPath>
+</defs>
+<rect x="0" y="0" width="720" height="380" fill="none"/>
+<g clip-path="url(#clip0)">
+<g>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" values="0,0;-720,0" dur="14s" repeatCount="indefinite" calcMode="linear"/>
+<image href="https://cdn.simpleicons.org/typescript" x="0" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/javascript" x="90" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/php" x="180" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/html5" x="270" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/css3" x="360" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/react" x="450" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/nextdotjs/CBD5E1" x="540" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/flutter" x="630" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/typescript" x="720" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/javascript" x="810" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/php" x="900" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/html5" x="990" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/css3" x="1080" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/react" x="1170" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/nextdotjs/CBD5E1" x="1260" y="27" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/flutter" x="1350" y="27" width="56" height="56"/>
+</g>
+</g>
+<g clip-path="url(#clip1)">
+<g>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" values="-720,0;0,0" dur="14s" repeatCount="indefinite" calcMode="linear"/>
+<image href="https://cdn.simpleicons.org/nodedotjs" x="0" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/express/CBD5E1" x="90" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/laravel" x="180" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/prisma" x="270" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/mysql" x="360" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/postgresql" x="450" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/redis" x="540" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/docker" x="630" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/nodedotjs" x="720" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/express/CBD5E1" x="810" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/laravel" x="900" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/prisma" x="990" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/mysql" x="1080" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/postgresql" x="1170" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/redis" x="1260" y="117" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/docker" x="1350" y="117" width="56" height="56"/>
+</g>
+</g>
+<g clip-path="url(#clip2)">
+<g>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" values="0,0;-720,0" dur="14s" repeatCount="indefinite" calcMode="linear"/>
+<image href="https://cdn.simpleicons.org/git" x="0" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/github/CBD5E1" x="90" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/vercel/CBD5E1" x="180" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/figma" x="270" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/postman" x="360" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/npm" x="450" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/yarn" x="540" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/python" x="630" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/git" x="720" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/github/CBD5E1" x="810" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/vercel/CBD5E1" x="900" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/figma" x="990" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/postman" x="1080" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/npm" x="1170" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/yarn" x="1260" y="207" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/python" x="1350" y="207" width="56" height="56"/>
+</g>
+</g>
+<g clip-path="url(#clip3)">
+<g>
+<animateTransform attributeName="transform" attributeType="XML" type="translate" values="-720,0;0,0" dur="14s" repeatCount="indefinite" calcMode="linear"/>
+<image href="https://cdn.simpleicons.org/fastapi" x="0" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/supabase" x="90" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/firebase" x="180" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/tailwindcss" x="270" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/bootstrap" x="360" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/sqlite" x="450" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/socketdotio" x="540" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/filament/CBD5E1" x="630" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/fastapi" x="720" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/supabase" x="810" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/firebase" x="900" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/tailwindcss" x="990" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/bootstrap" x="1080" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/sqlite" x="1170" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/socketdotio" x="1260" y="297" width="56" height="56"/>
+<image href="https://cdn.simpleicons.org/filament/CBD5E1" x="1350" y="297" width="56" height="56"/>
+</g>
+</g>
+</svg>
