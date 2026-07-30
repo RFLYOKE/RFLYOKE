@@ -94,27 +94,7 @@ learning: JavaScript & PHP ecosystem, AI integration
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,cpp,java&theme=dark&perline=7" alt="Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux,tailwind,bootstrap,vite&theme=dark&perline=7" alt="Frontend" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma,mysql,postgres,fastapi&theme=dark&perline=7" alt="Backend & Database" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,redis,supabase,firebase,figma,postman,npm,yarn,py&theme=dark&perline=6" alt="Tools & Platform" />
-</a>
+<img src="https://raw.githubusercontent.com/RFLYOKE/RFLYOKE/main/assets/tech-stack-marquee.svg" alt="Tech stack scrolling animation" width="100%" />
 
 </div>
 
