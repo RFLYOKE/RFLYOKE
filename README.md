@@ -44,6 +44,7 @@ learning: JavaScript & PHP ecosystem, AI integration
 
 **Languages**
 <br/>
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -60,7 +61,7 @@ learning: JavaScript & PHP ecosystem, AI integration
 ![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-4ED1C5?style=for-the-badge&logo=chakraui&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-4ED1C5?style=for-the-badge&logoColor=000000)
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend & Database**
@@ -89,19 +90,41 @@ learning: JavaScript & PHP ecosystem, AI integration
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ My Stack in Motion
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RFLYOKE/RFLYOKE/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,cpp,java&theme=dark&perline=7" alt="Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,redux,tailwind,bootstrap,vite&theme=dark&perline=7" alt="Frontend" />
+</a>
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma,mysql,postgres,fastapi&theme=dark&perline=7" alt="Backend & Database" />
+</a>
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,redis,supabase,firebase,figma,postman,npm,yarn,py&theme=dark&perline=6" alt="Tools & Platform" />
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
+## 🐍 Contribution Snake
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=RFLYOKE&theme=tokyonight&hide_border=true" />
+
+<img src="https://raw.githubusercontent.com/RFLYOKE/RFLYOKE/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
+
 </div>
 
 ---
