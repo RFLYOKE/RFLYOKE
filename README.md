@@ -34,7 +34,7 @@ learning: JavaScript & PHP ecosystem, AI integration
 - 🎨 Merancang UI yang rapi dan nyaman dipakai
 - ⚙️ Membangun API dan backend yang scalable
 - 🤖 Mengeksplorasi integrasi AI ke produk nyata
-- 📚 Terus belajar lewat bootcamp (CodePolitan, Dicoding)
+- 📚 Terus belajar lewat bootcamp, youtube, repo github, dll
 
 ---
 
